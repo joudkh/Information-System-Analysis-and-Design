@@ -1,0 +1,2 @@
+# Information-System-Analysis-Design
+This course is an overview of system analysis and design. Concepts and methods used in the analysis, design, and deployment of information systems. Explore the major issues at each stage in the system development life cycle, including requirement analysis, logical design, functional design, and implementation. Technical tools such as data flow diagrams, entity relationship diagrams, and CASE tools are introduced.
